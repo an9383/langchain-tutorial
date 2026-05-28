@@ -2,5 +2,17 @@ Ch01. Langchain Basics/.vscode/*
 Ch01. Langchain Basics/venv/*
 Ch02. RAG/.vscode/*
 Ch02. RAG/venv/*
-/mnt/d/WorkSpace/Python/langchain-tutorial/Ch03. MultiModal RAG/.vscode/*
-/mnt/d/WorkSpace/Python/langchain-tutorial/Ch03. MultiModal RAG/venv/*
+Ch03. MultiModal RAG/.vscode/*
+Ch03. MultiModal RAG/.venv/*
+Ch03. MultiModal RAG/poppler/*
+Ch03. MultiModal RAG/tesseract/*
+Ch03. MultiModal RAG/build/*
+Ch03. MultiModal RAG/data/*
+Ch04. Advanced Rag/.vscode/*
+Ch04. Advanced Rag/venv/*
+Ch05. GraphRAG/logs/*
+Ch05. GraphRAG/output/*
+Ch06. LangGraph/venv/*
+Ch07. Agent/venv/*
+Ch08. Fine-tuning for RAG/venv/*
+Ch09. Embedding Fine-tuning/venv/*
